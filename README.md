@@ -1,4 +1,4 @@
-# Project component design
+# Component Design
 In this homework, you will write an initial draft of the design of components in your project. This is a group homework.
 
 The component design document should have the following sections:
